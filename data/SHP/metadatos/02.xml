@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Metadata>
+<MD_DataIdentification>
+<title>Conjuntos de datos vectoriales de información topográfica escala 1:250 000 por Entidad Federativa Serie VI.</title>
+<purpose>Los conjuntos de datos vectoriales de información topográfica digital por Entidad Federativa, escala 1:250 000 Serie VI, es utilizada como base para una gran variedad de aplicaciones, como planeación, estudios ambientales, evaluación de infraestructura, evaluación de cambios, etc.</purpose>
+<abstract>INEGI. Información Topográfica a escala 1:250 000 y sus actualizaciones. 2018-2019.
+
+Contienen información sobre los diversos datos espaciales presentes en los conjuntos de datos, como curvas de nivel, hidrografía, vías de comunicación, localidades, entre otros. Estos rasgos son representados digitalmente por un componente geométrico (puntos, líneas o áreas) y componentes descriptivos (los atributos del dato). Los topónimos o nombres geográficos, se incluyen como atributos propios de cada uno de los datos que conforman cada conjunto de datos y que por su naturaleza los requieren.</abstract>
+<MD_DataIdentification_language>ES - Español.</MD_DataIdentification_language>
+<topicCategory>
+<principalTopic>  5. Medio ambiente: Recursos medio ambientales, protección y conservación. </principalTopic>
+<principalTopic>  8. Base de imágenes de mapas de la cobertura de la tierra: Mapas base.</principalTopic>
+<principalTopic>11. Localización: Información posicional y servicios.  </principalTopic>
+<groupCategory>4. Grupo de datos topográficos: Subdivisión de la Infraestructura de Datos Espaciales de México que contiene elementos que caracterizan parte o toda la superficie  terrestre, constituidos por datos referidos a los componentes físicos del paisaje y de los correspondientes a objetos de infraestructura humana. Particularizan un terreno en su configuración superficial, permitiendo la identificación de la disposición y forma de sus partes y lo distinguen de otros semejantes.</groupCategory>
+</topicCategory>
+<keyword>Acueducto</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Aeródromo civil</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Bordo</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Camino</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Canal</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Carretera</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Cementerio</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Conducto</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Corriente de agua</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Corriente que desaparece</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Cuerpo de agua</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Curva de nivel</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Elemento insular</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Emisor de señales para navegación</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Estanque</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Instalación de telecomunicación</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Instalación diversa</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Instalación industrial</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Límite</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Lindero</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Línea de costa</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Línea de transmisión</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Localidad</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Malpaís</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Manantial</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Pantano</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Pista de aviación</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Planta generadora</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Plaza de cobro</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Presa</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Puente</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Punto acotado</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Rasgo arqueológico</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Referencia geográfica</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Roca</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Salina</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Subestación eléctrica</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Terreno sujeto a inundación</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Vía férrea</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Vialidad</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Zona arenosa</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Baja California (02)</keyword>
+<type>2. Lugar: La palabra clave identifica un lugar o ubicación cubierto por el conjunto de datos espaciales o producto.</type>
+<thesaurusName>Ninguno</thesaurusName>
+<edition>Sexta.</edition>
+<presentationForm>  5. Mapa digital: Mapa representado en formato raster o vector.</presentationForm>
+<CI_OnlineResource>
+<CI_OnlineResource_linkage>http://www.inegi.org.mx/</CI_OnlineResource_linkage>
+<CI_OnlineResource_description>
+</CI_OnlineResource_description>
+</CI_OnlineResource>
+<maintenanceAndUpdateFrequency>  11. Los datos se actualizan cada 2 años.</maintenanceAndUpdateFrequency>
+<MD_DataIdentification_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</MD_DataIdentification_characterSet>
+<graphfilename>Conj_Dat_Vect_Top_02_Esc_250k</graphfilename>
+<specuse>El conjunto de datos, al proporcionarse en formato digital, los Datos Geográficos pueden ser complementados con otro tipo de información espacial para realizar diversos tipos de análisis y modelaje en Sistemas de Información Geográfica.</specuse>
+</MD_DataIdentification>
+<CI_Date>
+<Dates_Events>
+<date>2019-06-25</date>
+<dateType>2. Publicación: Indicador de la fecha que especifica cuando el recurso fue publicado.</dateType>
+</Dates_Events>
+<Ad_Date>
+<date_creation>2017-01-01</date_creation>
+<date_begin>2017-01-01</date_begin>
+<date_end>2017-12-31</date_end>
+<inpname>Imágenes SENTINEL 2</inpname>
+<date_creation>2010-01-01</date_creation>
+<date_begin>2010-01-01</date_begin>
+<date_end>2017-12-31</date_end>
+<inpname>Localidades Urbanas y Rurales del Censo de Población y Vivienda 2010, actualización 2017</inpname>
+<date_creation>2017-01-01</date_creation>
+<date_begin>2017-01-01</date_begin>
+<date_end>2017-12-31</date_end>
+<inpname>Red Nacional de Caminos (RNC) 2017</inpname>
+</Ad_Date>
+</CI_Date>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Subdirector de Atención a Usuarios.</CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Subdirección de Atención a Usuarios.</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(449)9105300 Ext. 5301. Lada 01 800 111 46 34 (sin costo).</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile>
+</CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes.</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes.</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276.</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México.</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>atencion.usuarios@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  5. Distribuidor: Parte que distribuye el recurso.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-118.8445</westBoundLongitude>
+<eastBoundLongitude>-112.6192</eastBoundLongitude>
+<southBoundLatitude>27.544</southBoundLatitude>
+<northBoundLatitude>32.850</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<spatialRepresentationType>1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.</spatialRepresentationType>
+</geographicElement>
+<MD_ReferenceSystem>
+<ReferenceHorizontalSystem>
+<geograph>
+<latres>
+</latres>
+<longres>
+</longres>
+<geogunit>
+</geogunit>
+</geograph>
+<planar>
+<mapprojn>
+<lambertc>
+<lambertc_stdparll>17.5</lambertc_stdparll>
+<lambertc_stdparll>29.5</lambertc_stdparll>
+<lambertc_longcm>-102.0</lambertc_longcm>
+<lambertc_latprjo>12.0</lambertc_latprjo>
+<lambertc_feast>2500000.0</lambertc_feast>
+<lambertc_fnorth>0.0</lambertc_fnorth>
+</lambertc>
+<mercatort>
+<mercatort_sfctrmer>
+</mercatort_sfctrmer>
+<mercatort_longcm>
+</mercatort_longcm>
+<mercatort_latprjo>
+</mercatort_latprjo>
+<mercatort_feast>
+</mercatort_feast>
+<mercatort_fnorth>
+</mercatort_fnorth>
+</mercatort>
+<mercator>
+<mercator_stdparll>
+</mercator_stdparll>
+<mercator_sfec>
+</mercator_sfec>
+<mercator_longcm>
+</mercator_longcm>
+<mercator_feast>
+</mercator_feast>
+<mercator_fnorth>
+</mercator_fnorth>
+</mercator>
+<tme>
+<tme_sfctrmer>
+</tme_sfctrmer>
+<tme_longcm>
+</tme_longcm>
+<tme_latprjo>
+</tme_latprjo>
+<tme_feast>
+</tme_feast>
+<tme_fnorth>
+</tme_fnorth>
+</tme>
+<anoth_proj_def>
+</anoth_proj_def>
+</mapprojn>
+<gridcoordinatessystem>
+<utm>
+<utm_zone>
+</utm_zone>
+<utm_sfctrmer>
+</utm_sfctrmer>
+<utm_longcm>
+</utm_longcm>
+<utm_latprjo>
+</utm_latprjo>
+<utm_feast>
+</utm_feast>
+<utm_fnorth>
+</utm_fnorth>
+</utm>
+</gridcoordinatessystem>
+<local_planar>
+<local_planar_desc>
+</local_planar_desc>
+<local_planar_geo_inf>
+</local_planar_geo_inf>
+</local_planar>
+<planci>
+<plance>Par coordenado.</plance>
+<coord_repres>
+<absres>1.0</absres>
+<ordres>1.0</ordres>
+</coord_repres>
+<distance_and_bearing_repres>
+<distance_res>
+</distance_res>
+<bearing_res>
+</bearing_res>
+<bearing_uni>
+</bearing_uni>
+<ref_bearing_dir>
+</ref_bearing_dir>
+<ref_bearing_mer>
+</ref_bearing_mer>
+</distance_and_bearing_repres>
+<plandu>Metros.</plandu>
+</planci>
+</planar>
+<local_coordinates>
+<local_desc>
+</local_desc>
+<local_geo_inf>
+</local_geo_inf>
+</local_coordinates>
+<geodetic>
+<horizdn>ITRF08 época 2010.0.</horizdn>
+<ellips>Sistema Geodésico de Referencia de 1980 (GRS80).</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.2572221</denflat>
+</geodetic>
+</ReferenceHorizontalSystem>
+<ReferenceVerticalSystem>
+<altsys>
+<altdatum>
+</altdatum>
+<altres>
+</altres>
+<altunits>
+</altunits>
+<altenc>
+</altenc>
+</altsys>
+<depthsys>
+<depthdn>
+</depthdn>
+<depthres>
+</depthres>
+<depthdu>
+</depthdu>
+<depthem>
+</depthem>
+</depthsys>
+</ReferenceVerticalSystem>
+</MD_ReferenceSystem>
+<DQ_DataQuality>
+<DQ_Scope>
+<level>  5. Conjunto de datos espaciales: Información aplicada al conjunto de datos espaciales.</level>
+</DQ_Scope>
+<report>
+<DQ_Completeness>
+<DQ_Completeness_evalqualsubname>
+<DQ_Completeness_nameOfMeasure>
+</DQ_Completeness_nameOfMeasure>
+<DQ_Completeness_measureDescription>
+</DQ_Completeness_measureDescription>
+<DQ_Completeness_result>
+<DQ_Completeness_DQ_QuantitativeResult>
+<DQ_Completeness_valueUnit>
+</DQ_Completeness_valueUnit>
+<DQ_Completeness_value>
+</DQ_Completeness_value>
+</DQ_Completeness_DQ_QuantitativeResult>
+</DQ_Completeness_result>
+</DQ_Completeness_evalqualsubname>
+</DQ_Completeness>
+<DQ_LogicConsistency>
+<DQ_LogicConsistency_evalqualsubname>
+<DQ_LogicConsistency_nameOfMeasure>
+</DQ_LogicConsistency_nameOfMeasure>
+<DQ_LogicConsistency_measureDescription>
+</DQ_LogicConsistency_measureDescription>
+<DQ_LogicConsistency_result>
+<DQ_LogicConsistency_DQ_QuantitativeResult>
+<DQ_LogicConsistency_valueUnit>
+</DQ_LogicConsistency_valueUnit>
+<DQ_LogicConsistency_value>
+</DQ_LogicConsistency_value>
+</DQ_LogicConsistency_DQ_QuantitativeResult>
+</DQ_LogicConsistency_result>
+</DQ_LogicConsistency_evalqualsubname>
+</DQ_LogicConsistency>
+<PositionalAccuracy>
+<PositionalAccuracy_evalqualsubname>
+<PositionalAccuracy_nameOfMeasure>
+</PositionalAccuracy_nameOfMeasure>
+<PositionalAccuracy_measureDescription>
+</PositionalAccuracy_measureDescription>
+<PositionalAccuracy_result>
+<PositionalAccuracy_DQ_QuantitativeResult>
+<PositionalAccuracy_valueUnit>
+</PositionalAccuracy_valueUnit>
+<PositionalAccuracy_value>
+</PositionalAccuracy_value>
+</PositionalAccuracy_DQ_QuantitativeResult>
+</PositionalAccuracy_result>
+</PositionalAccuracy_evalqualsubname>
+</PositionalAccuracy>
+<TemporalAccuracy>
+<TemporalAccuracy_evalqualsubname>
+<TemporalAccuracy_nameOfMeasure>
+</TemporalAccuracy_nameOfMeasure>
+<TemporalAccuracy_measureDescription>
+</TemporalAccuracy_measureDescription>
+<TemporalAccuracy_result>
+<TemporalAccuracy_DQ_QuantitativeResult>
+<TemporalAccuracy_valueUnit>
+</TemporalAccuracy_valueUnit>
+<TemporalAccuracy_value>
+</TemporalAccuracy_value>
+</TemporalAccuracy_DQ_QuantitativeResult>
+</TemporalAccuracy_result>
+</TemporalAccuracy_evalqualsubname>
+</TemporalAccuracy>
+<ThematicAccuracy>
+<ThematicAccuracy_evalqualsubname>
+<ThematicAccuracy_nameOfMeasure>
+</ThematicAccuracy_nameOfMeasure>
+<ThematicAccuracy_measureDescription>
+</ThematicAccuracy_measureDescription>
+<ThematicAccuracy_result>
+<ThematicAccuracy_DQ_QuantitativeResult>
+<ThematicAccuracy_valueUnit>
+</ThematicAccuracy_valueUnit>
+<ThematicAccuracy_value>
+</ThematicAccuracy_value>
+</ThematicAccuracy_DQ_QuantitativeResult>
+</ThematicAccuracy_result>
+</ThematicAccuracy_evalqualsubname>
+</ThematicAccuracy>
+</report>
+<LI_Lineage>
+<statement>Se realiza una inspección o revisión visual comparando el archivo vectorial contra la información fuente para detectar rasgos faltantes y/o mal codificados. Todos los segmentos de área que cierran las áreas en el límite teórico del Conjunto de Datos presentan un valor de representación geométrica definido. La clasificación, identificación, dimensiones y relaciones geométricas de los rasgos capturados se definen en el Diccionario de Datos Topográficos Escala 1:250 000.</statement>
+<LI_ProcessStep>
+<LI_ProcessStep_description>
+1. Se analizan visualmente las ortofotos y se extrae la información que deberá contener el archivo vectorial, acorde a los lineamientos
+establecidos en el Diccionario de Datos Topográficos y a las Normas y Especificaciones de Actualización. La información actualizada considera Localidades, Vías de Comunicación e Hidrografía y todos aquellos elementos que se vean afectados por estos.
+2. El método de actualización digital utilizado (Extracción) por sobreposición de archivos raster/vector.
+3. Se verifica que cada uno de los datos contenidos en el archivo vectorial en proceso de actualización, tengan asignados los códigos específicos, según la información de los conjuntos de datos vectoriales Serie VI.
+4. Se estructura la información actualizada (mediante la aplicación
+de los programas desarrollados para este propósito), conforme a las especificaciones del Diccionario de Datos Topográficos.
+5. Se revisa la información actualizada de forma interactiva, para asegurar que la información contenida en los insumos fuente, se haya digitalizado de forma correcta, y que se hayan aplicado las Normas y Especificaciones durante el proceso.
+6. Después de la revisión y corrección de posibles errores, el archivo vectorial queda validado y se envía a la Subdirección de Administración de Base de Datos.
+</LI_ProcessStep_description>
+</LI_ProcessStep>
+<LI_Source>
+<LI_Source_description>
+</LI_Source_description>
+</LI_Source>
+</LI_Lineage>
+</DQ_DataQuality>
+<Attributes>
+<schemaAscii>Las entidades son representadas por medio de puntos, líneas o áreas, donde cada una de ellas hace referencia a un elemento o fenómeno geográfico.
+A continuación se listan las entidades.
+TIPO DE ENTIDAD						 PUNTOS    LÍNEAS     ÁREAS     TOTAL
+Acueducto                                       0          56           0          56
+Aeródromo civil                                 0           0           3           3
+Bordo                                           2           6           0           8
+Camino                                          0         456           0         456
+Canal                                           0          97           0          97
+Carretera                                       0        1034           0        1034
+Cementerio                                      0           0           1           1
+Conducto                                        0          36           0          36
+Corriente de agua                               0        1610           0        1610
+Corriente que desaparece                      229           0           0         229
+Cuerpo de agua                                  0           0          75          75
+Curva de nivel                                  0       29416           0       29416
+Elemento insular                                0           0          77          77
+Emisor de señales para navegación              20           0           0          20
+Estanque                                        0           0           6           6
+Instalación de telecomunicación                10           0           0          10
+Instalación diversa                             8           0           2          10
+Instalación industrial                         11           0           2          13
+Límite                                          0           5           0           5
+Lindero                                         0           3           0           3
+Línea de costa                                  0          68           0          68
+Línea de transmisión                            0          64           0          64
+Localidad                                     781           0         395        1176
+Malpaís                                         0           0          30          30
+Manantial                                      47           0           0          47
+Pantano                                         0           0           7           7
+Pista de aviación                               0          17           0          17
+Planta generadora                               2           0           3           5
+Plaza de cobro                                 13           0           0          13
+Presa                                           0           5           0           5
+Puente                                          0          17           0          17
+Punto acotado                                 282           0           0         282
+Rasgo arqueológico                              5           0           0           5
+Referencia geográfica                         511           0           0         511
+Roca                                            1           0           0           1
+Salina                                          0           0           4           4
+Subestación eléctrica                          15           0           2          17
+Terreno sujeto a inundación                     0           0          47          47
+Vía férrea                                      0           2           0           2
+Vialidad                                        0        1129           0        1129
+Zona arenosa                                    0           0          81          81
+------      ------      ------      ------
+CANTIDAD:                                    1937       34021         735       36693
+</schemaAscii>
+<entity_detail>En la siguiente dirección del Sitio del INEGI se encuentra el Diccionario de Datos donde se describe a detalle la información contenida en el conjunto de datos: http://www.inegi.org.mx/geo/contenidos/topografia/default.aspx </entity_detail>
+</Attributes>
+<MD_Distribution>
+<accessConstraints>8. Acceso al público a través de Internet y los Centros de Información del Instituto Nacional de Estadística y Geografía - INEGI.</accessConstraints>
+<useConstraints>8. Ninguna.</useConstraints>
+<otherConstraints>El Instituto Nacional de Estadística y Geografía - INEGI no se hace responsable por el uso que usted le dé a los datos.</otherConstraints>
+<MD_Format>
+<name>ShapeFile (.shp)</name>
+<version>No Aplica</version>
+</MD_Format>
+</MD_Distribution>
+<Inf_Metadata>
+<metadataStandardName>ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).</metadataStandardName>
+<metadataStandardVersion>2003 (1.0).</metadataStandardVersion>
+<Inf_Metadata_language>ES - Español.</Inf_Metadata_language>
+<CI_ResponsibleParty>
+<Inf_Metadata_CI_ResponsibleParty_individualName>Jefe del Departamento de Administración de Metadatos.</Inf_Metadata_CI_ResponsibleParty_individualName>
+<Inf_Metadata_CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</Inf_Metadata_CI_ResponsibleParty_organisationName>
+<Inf_Metadata_CI_ResponsibleParty_positionName>Departamento de Administración de Metadatos.</Inf_Metadata_CI_ResponsibleParty_positionName>
+<Inf_Metadata_CI_ResponsibleParty_voice>(449)9105300 Ext. 1750 y 5631.</Inf_Metadata_CI_ResponsibleParty_voice>
+<Inf_Metadata_CI_ResponsibleParty_facsimile>(449)4424145.</Inf_Metadata_CI_ResponsibleParty_facsimile>
+<Inf_Metadata_CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</Inf_Metadata_CI_ResponsibleParty_deliveryPoint>
+<Inf_Metadata_CI_ResponsibleParty_city>Aguascalientes.             </Inf_Metadata_CI_ResponsibleParty_city>
+<Inf_Metadata_CI_ResponsibleParty_administrativeArea>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_administrativeArea>
+<Inf_Metadata_CI_ResponsibleParty_postalCode>20276.    </Inf_Metadata_CI_ResponsibleParty_postalCode>
+<Inf_Metadata_CI_ResponsibleParty_country>México.</Inf_Metadata_CI_ResponsibleParty_country>
+<Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>rafael.arrioja@inegi.org.mx</Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>
+<Inf_Metadata_CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</Inf_Metadata_CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<dateStamp>2019-06-25</dateStamp>
+<Inf_Metadata_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</Inf_Metadata_characterSet>
+</Inf_Metadata>
+</Metadata>

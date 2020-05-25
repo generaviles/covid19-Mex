@@ -1,0 +1,87 @@
+---
+title: "Recomendaciones Técnicas para la Iglesia Adventista del Séptimo Día"
+#author: "Compiladas por Gener José Avilés Rodríguez, Lic. Med, MsC, DrSc(c)"
+date: "18 de Mayo 2020"
+output:
+  pdf_document: default
+  html_document: default
+csl: vancouver.csl
+subtitle: Asociación de Baja California
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Generalidades
+
+La Secretaría de Salud Federal, a través de la Subsecretaría de Prevención y Promoción de la Salud, ha publicado lineamientos específicos para la reactivación de espacios públicos cerrados como parte de la Fase 3 Epidemiológica de la contingencia generada por COVID-19 [@Lineamie24:online]. En éste documento se detallan las acciones recomendadas para espacios públicos (a lo que los espacios de culto pertenecen).
+A continuación se presenta un resumen de las recomendaciones pertinentes para los centros de culto de la Iglesia Adventista del Séptimo Día en la Asociación de Baja California.
+
+El objetivo principal en las fases de desescalamiento es la **disminución de la velocidad de transmisión y contagio de COVID-19 en la población**, a través de estrategias de mitigación y prevención, **incrementando la protección a grupos en mayor riesgo** (@DatosAbi46:online) como lo son:
+
+  - mujeres embarazadas,
+  - mayores de 60 años,
+  - personas con enfermedades crónicas:
+    - cardiopulmonares,
+    - inmunodeprimidos,
+    - diabettes mellitus,
+    - obesos mórbidos,
+    - entre otros.
+
+## Medidas de mitigación no médicas
+Las acciones de mitigación no médicas recomendadas por la autoridad federal en salud se pueden dividir en tres subconjuntos:
+
+  1. Medidas de higiene.
+  1. Filtro de supervisión.
+  1. Sana distancia.
+
+
+### Medidas de higiene
+
+  - Lavado de manos (15-20 veces diario).
+  - Uso de tapabocas en todo momento en espacio público cuando semáforo de rojo a amarillo.
+  - Resguardo en casa si hay síntomatología respiratoria.
+  - Mantener higiene adecuada del espacio cerrado.
+    - Limpieza completa de superficies antes y después de ser utilizadas.
+    - Ventilación natural de todas las áreas cerradas.
+    - Se puede utilizar agua y jabón comercial para limpieza general de pisos y superficies grandes.
+    - Se puede utilizar solución de hipoclorito de sodio (cloro comercial) diluida después del uso del jabón y agua.
+  - Evitar contacto físico de cualquier tipo: estrechar manos, abrazos, besos.
+  - Lavado y planchado frecuente de telas, cortinas, manteles, étc. Utilizados en espacio público.
+
+### Filtro de supervisión
+
+El objetivo principal es disminuir la probabilidad de que las personas contenidas en el espacio cerrado presenten un riesgo potencial de contagio para el resto de los asistentes. La propuesta federal es que el módulo de supervisión incluya:
+
+  - Aplicación de un cuestionario breve sobre estado de salud,
+  - aplicación de gel antibacterial,
+  - información sobre estrategias de mitigación de COVID-19
+  - indicación de unidades de salud más cercana.
+
+### Sana distancia
+
+Dependiendo el escenario en el que se encuentre cada uno de los municipios de Baja California, la sana distancia puede ir de 1.80 a 2.25 metros entre persona y persona como mínimo. A continuación se reproduce la tabla proporcionada en los lineamientos oficiales:
+
+| Escenario | Sana Dist Mínima | Dist Adicional | Dist Total |
+|:---------:|:----------------:|:--------------:|:----------:|
+|     1     |       1.5m       |      0.30m     |    1.80m   |
+|     2     |       1.5m       |      0.45m     |    1.95m   |
+|     3     |       1.5m       |      0.75m     |    2.25m   |
+
+Éstas indicaciones permite realizar un cálculo del máximo de personas que pueden estar presentes al mismo tiempo en cada iglesia, dadas las dimensiones de cada templo. Cabe destacar que a la fecha de generación de éste documento **todo el estado de Baja California está catalogado en el Escenario 3**.
+
+## Reflexiones y puntos claves
+
+El desescalamiento en el estado de Baja California es una realidad que, a la fecha de generación de éste documento, se percibe distante ya que éste estado sigue clasificado en el escenario epidemiológico número 3 por el Gobierno Federal. No obstante todo ejercicio de planeación y preparación para éstos eventos es un acto de responsabilidad y profesionalismo por parte de los dirigentes de la IASD en éste Estado. Buscando brevedad en el documento, a continuación se resume puntualmente algunas conclusiones:
+
+  1. Las iglesias en Baja California, sus dirigentes y laicos deben entrar en una fase de preparación intensa para poder alinearse a las estrategias de higiene, filtros de supervisión y sana distancia propuestas por el gobierno para así proteger a la hermandad.
+  1. Es esperable que un porcentaje significativo de la hermandad (probablemente cercano al 50%) sea clasificada como población en riesgo y no puedan asistir a los templos hasta que el semáforo epidemiológico cambie a verde.
+  1. Los cultos en línea parecen ser herramientas que podrían ser de gran apoyo durante el proceso de desescalamiento, aún cuando porciones de la población inicien a asistir en persona a los templos.
+  1. Las reuniones *masivas* (>50 personas manteniendo sana distancia) no se presentan como viables, por lo menos en el futuro inmediato y a mediano plazo.
+  1. Nos enfrentamos a un cambio de paradigma en la vida eclesiástica, parece ser que lo más racional por hacer ahora no es anhelar el volver a prácticas pasadas sino reinventarse y transformar nuestra experiencia religiosa de tal forma que nos permita disminuir las probabilidades de propagación de COVID-19 al mismo tiempo que nos mantenga viviendo una vibrante vida adventista en comunidad.
+
+*Documento compilado por Gener José Avilés Rodríguez, Lic.Med, MSc, DrSc(c), para la Asociación de Baja California de los Adventistas del Séptimo Día.*
+
+## Referencias

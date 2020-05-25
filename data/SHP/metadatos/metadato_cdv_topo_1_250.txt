@@ -1,0 +1,32 @@
+﻿Identifier: 
+
+Title: Conjuntos de datos vectoriales de información topográfica escala 1:250 000 por Entidad Federativa serie VI.
+
+Description: INEGI. Información Topográfica a escala 1:250 000 y sus actualizaciones. 2018-2019.
+
+Contienen información sobre los diversos datos espaciales presentes en los conjuntos de datos, como curvas de nivel, hidrografía, vías de comunicación, localidades, entre otros. Estos rasgos son representados digitalmente por un componente geométrico (puntos, líneas o áreas) y componentes descriptivos (los atributos del dato). Los topónimos o nombres geográficos, se incluyen como atributos propios de cada uno de los datos que conforman cada conjunto de datos y que por su naturaleza los requieren. Esta serie corresponde a la actualización de las localidades, vías de comunicación y cuerpos de agua, por ser estos los rasgos  con mayor cambio con respecto al tiempo, además de todas aquellas que por su relación espacial con las anteriores necesiten ajustarse.
+
+Nota: Registro en trámite ante el Instituto Nacional del Derecho de Autor.
+
+Modified: 2019-12-31  
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion@usuarios.inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary:
+
+Keyword: "acueducto", "aeropuerto", "área verde urbana", "arrecife bajo", "bordo", "calle", "camino", "canal", "carretera", "caseta de peaje", "cementerio", "conducto", "corriente de agua", "corriente que desaparece", "cuerpo de agua" , "curva de nivel", "entrada a gruta", "estanque", "fango", "faro radiofaro vor", "instalación de comunicación", "instalación diversa", "instalación industrial", "isla", "límite", "lindero", "línea de transmisión", "localidad", "malpaís", "manantial", "nieve perpetua", "pantano", "pista de aviación", "planta generadora", "pozo de explotación", "presa", "puente", "punto acotado", "rasgo arqueológico", "referencia geográfica", "roca", "ruta de embarcación", "salina", "salto de agua", "subestación eléctrica", "terreno sujeto a inundación", "túnel", "vegetación densa", "vía férrea", "zona arenosa"
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 800 111 4634
+
+Temporal: 2018-01-01-2019-12-31 
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: bienal
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=0150001000000000
+
